@@ -1,0 +1,10 @@
+paddleocr==3.7.0
+paddlepaddle==3.3.1
+torch
+torchvision
+transformers==5.17.0
+Pillow
+numpy
+fastapi
+uvicorn
+python-multipart
